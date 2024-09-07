@@ -1,0 +1,27 @@
+{
+  "shopName": "PuraVida",
+  "location": "El Medano, Spain",
+  "activities": [
+    {
+      "name": "Intro to Kite surf",
+      "description": "An intro to kite surfing for newbies",
+      "difficultyLevel": 3,
+      "durationInMinutes": 600,
+      "price": 400
+    },
+    {
+      "name": "Intro to Wind surf",
+      "description": "An intro to wind surfing for newbies",
+      "difficultyLevel": 4,
+      "durationInMinutes": 400,
+      "price": 350
+    },
+    {
+      "name": "Intro to Surf",
+      "description": "An intro to Surfing for newbies",
+      "difficultyLevel": 4,
+      "durationInMinutes": 300,
+      "price": 100
+    }
+  ]
+}
